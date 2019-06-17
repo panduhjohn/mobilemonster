@@ -541,6 +541,11 @@ footer {
   margin: 0 auto;
 }
 
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .s5e1 {
 }
 
